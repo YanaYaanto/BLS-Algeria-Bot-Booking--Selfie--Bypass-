@@ -15,7 +15,7 @@ In this repository, I will upload all my scripts that I use to **book a BLS Alge
 
 ## ⚙️ How to use it?
 
-1. Install **Tampermonkey** Chrome extension.  
+1. Install **Source Code From Developer** Chrome extension.  
 2. Select a script in this repo that you wish to use (for BLS Algeria).  
 3. Copy the source code.  
 4. Open Tampermonkey in your browser and click the **“Add Script”** tab (icon with a plus ➕ symbol).  
