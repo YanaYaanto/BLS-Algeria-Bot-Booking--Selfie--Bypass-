@@ -1,5 +1,5 @@
-# BLS_Moroco_appointment_scripts
-
+# BLS_Algeria_appointment_scripts
+Selfie Bypass 
 In this repository, I will upload all my scripts that I use to **book a VFS Algeria appointment automatically**.
 
 ---
